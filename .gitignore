@@ -1,0 +1,27 @@
+# Java
+target/
+*.class
+*.log
+*.tmp
+*.bak
+
+# Maven
+/.mvn/
+**/target/
+!**/src/**/target/
+
+# Eclipse/IntelliJ/VSCode
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# Node
+node_modules/
+build/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
